@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Datadog
+- 🌱 I’m currently learning Observability
+- 👯 I’m looking to collaborate on Open Telemetry and Datadog Docs
+- 🤔 I’m looking for help with to be better engineer
 <!--
 **taka2noda/taka2noda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
