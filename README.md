@@ -2,7 +2,7 @@
 
 ## 💼 Job
 
-- Sales Engineer, Datadog (Present)
+- Sales Engineer, Datadog
 
 ## 🎤 Detail
 
