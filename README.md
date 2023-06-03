@@ -1,15 +1,14 @@
 # Hello, I'm Takaaki Tsunoda 👋
 
-## 💼 Work Experience
+## 💼 Job
 
 - Sales Engineer, Datadog (Present)
-- Platform SRE and Delivery Program Manager, Kyndryl & IBM (Past)
 
-## 🎤 Personal Site
+## 🎤 Detail
 
 - [Taka2 Introduction](https://taka2noda.github.io/)
 
-## 📫 How to reach me
+## 📫 Contact
 
 - LinkedIn: [Takaaki Tsunoda](https://www.linkedin.com/in/takaaki-tsunoda/)
 - Twitter: [@taka2noda](https://twitter.com/taka2noda)
