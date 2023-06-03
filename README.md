@@ -1,4 +1,4 @@
-# Hello, I'm taka2noda 👋
+# Hello, I'm Takaaki Tsunoda 👋
 
 ## 💼 Work Experience
 
