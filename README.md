@@ -5,19 +5,6 @@
 - Sales Engineer, Datadog (Present)
 - Platform SRE and Delivery Program Manager, Kyndryl & IBM (Past)
 
-## 📫 How to reach me
-
-- LinkedIn: [Takaaki Tsunoda](https://www.linkedin.com/in/takaaki-tsunoda/)
-- Twitter: [@taka2noda](https://twitter.com/taka2noda)
-
-
-## 📜 Certifications
-
-- Project Management Professional (PMP)®
-- ITIL® Foundation Certificate in IT Service Management
-- Datadog Certified: Datadog Fundamentals
-- You can check my other certifications [here](https://www.credly.com/users/tsunoda-takaaki/badges)
-
 ## 🎤 Speaking Engagements
 
 - [Security-JAWS【29th Session】Study Session](https://s-jaws.doorkeeper.jp/events/155023) (May 25, 2023)
@@ -30,6 +17,19 @@
 ## 📚 Speaker Decks
 
 - [Speakerdecks](https://speakerdeck.com/taka2noda)
+
+## 📜 Certifications
+
+- Project Management Professional (PMP)®
+- ITIL® Foundation Certificate in IT Service Management
+- Datadog Certified: Datadog Fundamentals
+- You can check my other certifications [here](https://www.credly.com/users/tsunoda-takaaki/badges)
+
+## 📫 How to reach me
+
+- LinkedIn: [Takaaki Tsunoda](https://www.linkedin.com/in/takaaki-tsunoda/)
+- Twitter: [@taka2noda](https://twitter.com/taka2noda)
+
 
 
 
