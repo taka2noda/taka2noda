@@ -1,31 +1,17 @@
-# Hello, I'm Takaaki Tsunoda 👋
-
-## 💼 Job
-
-- Sales Engineer, Datadog
-
 ## 🎤 Detail
 
 - [Taka2 Introduction](https://taka2noda.github.io/)
 
-## 📫 Contact
+## Sample Repos
 
-- LinkedIn: [Takaaki Tsunoda](https://www.linkedin.com/in/takaaki-tsunoda/)
-- Twitter: [@taka2noda](https://twitter.com/taka2noda)
+Datadog observability sample applications.
 
----
-
-## Sample Repositories
-
-Datadog observability sample applications organized by technology.
-
-> 🔒 = private repository
+> 🔒 = private repo
 
 | Category | Repository | Description |
 |---|---|---|
 | Docker | [datadog-flask-docker-apm](https://github.com/taka2noda/datadog-flask-docker-apm) | Flask + Docker APM basic demo with Datadog ddtrace |
 | Docker | [datadog-simple-docker-alinux](https://github.com/taka2noda/datadog-simple-docker-alinux) | Flask + Docker on Amazon Linux EC2 with Datadog Agent |
-| Docker | [llmdemo_jon](https://github.com/taka2noda/llmdemo_jon) 🔒 | Flask + Docker + OpenAI + Datadog AI Guard demo |
 | Docker | [taka2-Datadog-learningcenter](https://github.com/taka2noda/taka2-Datadog-learningcenter) 🔒 | Docker Compose environment for Datadog Agent / USM / Integration hands-on |
 | ECS | [Datadog-aws-ecs-ec2](https://github.com/taka2noda/Datadog-aws-ecs-ec2) | Flask on ECS on EC2 with Datadog APM sidecar |
 | ECS | [datadog-aws-ecs-handson-rubyrails](https://github.com/taka2noda/datadog-aws-ecs-handson-rubyrails) | Ruby on Rails on ECS with Datadog APM and Firelens |
