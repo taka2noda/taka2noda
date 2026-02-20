@@ -10,7 +10,6 @@ Datadog observability sample applications.
 
 | Category | Repository | Description |
 |---|---|---|
-| Collection | [Datadog-llm-ops-sample-taka2](https://github.com/taka2noda/Datadog-llm-ops-sample-taka2) | Collection of Datadog observability samples (Docker / ECS / EC2 / LLM Observability) |
 | Docker | [datadog-flask-docker-apm](https://github.com/taka2noda/datadog-flask-docker-apm) | Flask + Docker APM basic demo with Datadog ddtrace |
 | Docker | [datadog-simple-docker-alinux](https://github.com/taka2noda/datadog-simple-docker-alinux) | Flask + Docker on Amazon Linux EC2 with Datadog Agent |
 | ECS | [Datadog-aws-ecs-ec2](https://github.com/taka2noda/Datadog-aws-ecs-ec2) | Flask on ECS on EC2 with Datadog APM sidecar |
