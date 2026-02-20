@@ -43,6 +43,7 @@ Datadog observability sample applications organized by technology.
 | Repository | Description |
 |---|---|
 | [datadog-integration-openai-python](https://github.com/taka2noda/datadog-integration-openai-python) | OpenAI API integration with Datadog LLM Observability on EC2 |
+| [openai-dd-apm-demo](https://github.com/taka2noda/openai-dd-apm-demo) 🔒 | OpenAI API demo scripts (GPT-3.5, error patterns) with Datadog APM on EC2 |
 
 ### LLM Observability
 
