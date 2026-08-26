@@ -1,0 +1,36 @@
+name: Update README sample repos table
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # every Monday 00:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/generate-readme.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- README.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: sync sample repos table from GitHub topics"
+          git push
