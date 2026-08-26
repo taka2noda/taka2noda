@@ -24,16 +24,12 @@ const START = "<!-- SAMPLE_REPOS:START -->";
 const END = "<!-- SAMPLE_REPOS:END -->";
 
 const CATEGORY_LABELS = {
-  docker: "Docker",
-  ecs: "ECS",
-  ec2: "EC2",
-  serverless: "Serverless",
-  k8s: "K8s",
-  "llm-observability": "LLM Observability",
-  agent: "Agent",
-  cicd: "CI/CD",
+  apm: "APM",
+  infra: "Infra",
   rum: "RUM",
+  "agent-obs": "Agent Obs",
   security: "Security",
+  other: "Other",
 };
 
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
