@@ -101,12 +101,14 @@ async function main() {
       url: repo.html_url,
       description: repo.description,
       category,
+      createdAt: repo.created_at,
     });
   }
 
+  // Within a category, newest repo (by creation date) first.
   rows.sort((a, b) =>
     a.category === b.category
-      ? a.name.localeCompare(b.name)
+      ? new Date(b.createdAt) - new Date(a.createdAt)
       : a.category.localeCompare(b.category),
   );
 
